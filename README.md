@@ -1,1 +1,1 @@
-Simple React app which runs a prompt against GPT-5 model. Refreshing the page will return a fresh response by calling the model with a new prompt.
+Simple React app which runs a prompt against GPT-5 model. Authenticate through Google/GitHub. 
